@@ -1,4 +1,3 @@
 Hi, my name is Kelly.
-I love pandas.
-I am from Chengdu.
-I also love butterflies.
+This is a self learning project before starting full stack bootcamp.
+It's built with HTML, CSS and vanilla Javascript.
